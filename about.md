@@ -9,6 +9,6 @@ published: true
 
 3개월의 수업 내용을 정리하고 앞으로 더 나은 개발자가 되기 위한 Github 노트 입니다.
 
-이 블로그는 Github Pages 와 Jekyll을 이용하여 만들었습니다.
+이 블로그는 [Github Pages](https://pages.github.com/) 와 [Jekyll](https://jekyllrb-ko.github.io/)을 이용하여 만들었습니다.
 
 업데이트는 계속 됩니다.
