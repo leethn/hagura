@@ -2,7 +2,7 @@
 title: About Taehn
 layout: post
 permalink: /about/
-published: false
+published: true
 ---
 
 For more themes please visit [https://blog.webjeda.com](https://blog.webjeda.com)
