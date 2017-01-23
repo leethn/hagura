@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Day00 - Topic of the class
-date:   2017-00-00 18:00:00 +0900
+date:   2017-01-01 18:00:00 +0900
 category: post,HTML,CSS
 tags: html,css
 ---
