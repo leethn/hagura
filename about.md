@@ -1,8 +1,8 @@
 ---
-title: About Hagura
+title: About Taehn
 layout: post
 permalink: /about/
-published: true
+published: false
 ---
 
 For more themes please visit [https://blog.webjeda.com](https://blog.webjeda.com)
