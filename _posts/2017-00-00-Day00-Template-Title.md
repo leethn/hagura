@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  Day02 - HTML/CSS
-date:   2017-01-10 18:00:00 +0900
+title:  Day00 - Topic of the class
+date:   2017-00-00 18:00:00 +0900
 category: post,HTML,CSS
 tags: html,css
 ---
 
 -
-
-# Day02 - HTML
--
--
--
+# Day00 - Topic of the class
 -
 
+-
 ### 과제
 -
--
+
 -
 ### 수업내용
 -

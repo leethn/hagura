@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  Day02 - HTML/CSS
-date:   2017-01-10 18:00:00 +0900
+title:  Day05 - Responsive
+date:   2017-01-13 18:00:00 +0900
 category: post,HTML,CSS
 tags: html,css
 ---
 
 -
-
-# Day02 - HTML
--
--
--
+# Day05 - Responsive
 -
 
+-
 ### 과제
 -
--
+
 -
 ### 수업내용
 -
